@@ -1,2 +1,37 @@
-# The-Hunt
-Our game is called "The Hunt", and it involves a fox and hunter. The goal of the game is for the fox to collect all of the berries that are in the world. The hunters chase the fox around the world, while the fox tries to collect all the berries. The hunters will begin in the middle of the world, while the fox will start at the bottom left corner. There will be three different "berries" the fox can collect; plums, apples, and cherries. Plums will be spaced evenly around the world and will be the main "berry" the fox must collect. After all plums are collected, the game ends. Some of the berries are larger than the others, and give the fox the ability to fight back and "eat" the hunter. These "berries" will be represented as apples and appear at each corner of the world. There will be two cherries that appear in the middle of the world and make the fox faster. These will be represented as cherries. Once the hunter has been "eaten", he will flash and no longer be able to move for 10 seconds. After 10 seconds are up, he will be able to move and chase the fox again.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Group-22/The-Hunt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Group-22/The-Hunt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
